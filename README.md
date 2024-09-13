@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem-vindo ao meu perfil💓
 
-<!--
-**Vitoria27052009/Vitoria27052009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é vitoria
 
-Here are some ideas to get you started:
+Estudo no CCM JOÃO XXIII
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho apenas 15 anos 
+
+Estou gostando de fazer esse curso 
+
+@delattre.teixeira@escola.pr.gov.br
+
+estou me desenvolvendo no jave

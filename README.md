@@ -13,3 +13,5 @@ Estou gostando de fazer esse curso
 estou me desenvolvendo no JavaScript  
 
  Estava com bastante dificuldade no desenvolvimento mas agr já evolui bastante 
+
+![](https://media.tenor.com/mmrtlj3CT_oAAAAi/lilo-and-stitch-stitch.gif)

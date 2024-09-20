@@ -11,3 +11,5 @@ Estou gostando de fazer esse curso
 @delattre.teixeira@escola.pr.gov.br
 
 estou me desenvolvendo no JavaScript  
+
+ Estava com bastante dificuldade no desenvolvimento mas agr já evolui bastante 

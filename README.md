@@ -10,4 +10,4 @@ Estou gostando de fazer esse curso
 
 @delattre.teixeira@escola.pr.gov.br
 
-estou me desenvolvendo no jave
+estou me desenvolvendo no JavaScript  
